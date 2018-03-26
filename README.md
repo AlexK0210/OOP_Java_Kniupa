@@ -1,1 +1,1 @@
-# OOP_Java_Kniupa
+# Olexander-Kniupa-OOP-JAVA
